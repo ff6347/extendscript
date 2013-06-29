@@ -5,5 +5,9 @@ This repo will be the home for my research and documentation on Adobe Extendscri
 
 TOC  
 
+##InDesign  
+- MasterSpreads/master-spreads-set-properties.jsx (setting some masterspread properties)  
+- Properties/set-properties-with-loop.jsx (sets properties without using properties. The good thing about it? you can use JSON and he still processes only properties the ID DOM Object has)
+
 ##Script UI  
 - Progress-And-Delay.jsx (Shows the usage of progressbars and a delay function)  

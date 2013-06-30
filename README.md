@@ -13,15 +13,16 @@ In some time I will add more code examples in here.
 - ####Graphics
 - - __copy-graphic-from-rect-to-tect.jsx__ (copies an iamge from one rectangle to another)  
 
-<hl>  
+<br>  
 
 - ####MasterSpreads
 - - __master-spreads-set-properties.jsx__ (setting some masterspread properties)  
 
-<hl>  
+<br>  
+
 - ####Properties
 - - __set-properties-with-loop.jsx__ (sets properties without using properties. The good thing about it? you can use JSON and he still processes only properties the ID DOM Object has)  
 
-<hl>  
+<br>  
 ###Script UI  
 - __Progress-And-Delay.jsx__ (Shows the usage of progressbars and a delay function)  

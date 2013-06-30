@@ -6,6 +6,7 @@ This repo will be the home for my research and documentation on Adobe Extendscri
 TOC  
 
 ##InDesign  
+- Graphics/copy-graphic-from-rect-to-tect.jsx (copies an iamge from one rectangle to another)  
 - MasterSpreads/master-spreads-set-properties.jsx (setting some masterspread properties)  
 - Properties/set-properties-with-loop.jsx (sets properties without using properties. The good thing about it? you can use JSON and he still processes only properties the ID DOM Object has)
 

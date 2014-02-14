@@ -9,24 +9,46 @@ In some time I will add more code examples in here.
 
 ##TOC  
 
-###InDesign  
+###InDesign/Graphics/:  
+- copy-graphic-from-rect-to-tect.jsx  
+Copy imae from one rectangle to another
 
-- ####Graphics
-- - __copy-graphic-from-rect-to-tect.jsx__ (copies an iamge from one rectangle to another)  
+###InDesign/MasterSpreads/:
+setting some masterspread properties  
 
-<br>  
+###InDesign/Pages/:
+- array-to-charts.jsx  
+create pages from an array of strings. Sets some basic paragraph styles
 
-- ####MasterSpreads
-- - __master-spreads-set-properties.jsx__ (setting some masterspread properties)  
+- facingPages.jsx
+Set facing pages to false
 
-<br>  
+###InDesign/Properties/:
+- set-properties-with-loop.jsx
+sets properties without using properties. The good thing about it? You can use JSON and he still processes only properties the ID DOM Object has.
 
-- ####Properties
-- - __set-properties-with-loop.jsx__ (sets properties without using properties. The good thing about it? you can use JSON and he still processes only properties the ID DOM Object has)  
+###InDesign/TextPaths and Transformation/:
+- circles.jsx
+- circles_rotate_01.jsx
+- circles_rotate_02.jsx
+Soem fun with textpaths and transformation matricies
 
-<br>  
-###Script UI  
-- __Progress-And-Delay.jsx__ (Shows the usage of progressbars and a delay function)  
+
+###InDesign/book/:
+- buildBookWithDocs.jsx  
+Build a book and create some files. Add these files to the book
+
+- docsOfBook_ToIDML.jsx
+Transform all docs of a book into .idml files
+
+###InDesign/export/:
+- docToIDML.jsx  
+-Export a .indd to .idml  
+
+###ScriptUI/:
+- ProgressAndDelay.jsx
+Shows the usage of progress bars and delays  
+
 
 ##License  
 if not further noticed  

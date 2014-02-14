@@ -11,7 +11,7 @@ In some time I will add more code examples in here.
 
 ###InDesign/Graphics/:  
 - copy-graphic-from-rect-to-tect.jsx  
-Copy imae from one rectangle to another
+Copy image from one rectangle to another
 
 ###InDesign/MasterSpreads/:
 

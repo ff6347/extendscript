@@ -1,0 +1,1 @@
+﻿var aBook = app.books.add("/Users/fabiantheblind/Desktop/testBook.indb");var docs = new Array();for (var i = 0; i < 5;i ++){    docs[i] = app.documents.add();    //docs[i].name = "testDoc_" + i;    docs[i].save("/Users/fabiantheblind/Desktop/"+docs[i].name);    aBook.bookContents.add(docs[i].fullName);    }

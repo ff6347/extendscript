@@ -14,38 +14,46 @@ In some time I will add more code examples in here.
 Copy imae from one rectangle to another
 
 ###InDesign/MasterSpreads/:
+
+- master-spreads-set-properties.jsx
 setting some masterspread properties  
 
-###InDesign/Pages/:
+###InDesign/Pages/:  
+
 - array-to-charts.jsx  
 create pages from an array of strings. Sets some basic paragraph styles
 
 - facingPages.jsx
 Set facing pages to false
 
-###InDesign/Properties/:
+###InDesign/Properties/:  
+
 - set-properties-with-loop.jsx
 sets properties without using properties. The good thing about it? You can use JSON and he still processes only properties the ID DOM Object has.
 
-###InDesign/TextPaths and Transformation/:
+###InDesign/TextPaths and Transformation/:  
+
 - circles.jsx
 - circles_rotate_01.jsx
 - circles_rotate_02.jsx
 Soem fun with textpaths and transformation matricies
 
 
-###InDesign/book/:
+###InDesign/book/:  
+
 - buildBookWithDocs.jsx  
 Build a book and create some files. Add these files to the book
 
 - docsOfBook_ToIDML.jsx
 Transform all docs of a book into .idml files
 
-###InDesign/export/:
+###InDesign/export/:  
+
 - docToIDML.jsx  
 -Export a .indd to .idml  
 
-###ScriptUI/:
+###ScriptUI/:  
+
 - ProgressAndDelay.jsx
 Shows the usage of progress bars and delays  
 

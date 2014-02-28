@@ -1,0 +1,63 @@
+[submodule "InDesign/IDSnippets"]
+	path = InDesign/IDSnippets
+	url = git://github.com/fabiantheblind/IDSnippets.git
+[submodule "InDesign/batch-find-and-replace"]
+	path = InDesign/batch-find-and-replace
+	url = git://github.com/fabiantheblind/batch-find-and-replace.git
+[submodule "extendscript-console"]
+	path = extendscript-console
+	url = git://github.com/fabiantheblind/extendscript-console.git
+[submodule "InDesign/num-2-txt-dissolve-pars"]
+	path = InDesign/num-2-txt-dissolve-pars
+	url = git://github.com/fabiantheblind/num-2-txt-dissolve-pars.git
+[submodule "InDesign/footnote-to-paragraphs"]
+	path = InDesign/footnote-to-paragraphs
+	url = git://github.com/fabiantheblind/footnote-to-paragraphs.git
+[submodule "InDesign/swissd"]
+	path = InDesign/swissd
+	url = git://github.com/fabiantheblind/swissd.git
+[submodule "InDesign/NextTypoStandard"]
+	path = InDesign/NextTypoStandard
+	url = git://github.com/fabiantheblind/NextTypoStandard.git
+[submodule "InDesign/IDJSMap"]
+	path = InDesign/IDJSMap
+	url = git://github.com/fabiantheblind/IDJSMap.git
+[submodule "InDesign/layout-invaders"]
+	path = InDesign/layout-invaders
+	url = git://github.com/fabiantheblind/layout-invaders.git
+[submodule "Illustrator/obj-from-ai"]
+	path = Illustrator/obj-from-ai
+	url = git://github.com/fabiantheblind/obj-from-ai.git
+[submodule "AfterEffects/open-close-mask"]
+	path = AfterEffects/open-close-mask
+	url = git://github.com/fabiantheblind/open-close-mask.git
+[submodule "InDesign/theGrids"]
+	path = InDesign/theGrids
+	url = git://github.com/fabiantheblind/theGrids.git
+[submodule "AfterEffects/wihihihiggle"]
+	path = AfterEffects/wihihihiggle
+	url = git://github.com/fabiantheblind/wihihihiggle.git
+[submodule "AfterEffects/x-true-da"]
+	path = AfterEffects/x-true-da
+	url = git://github.com/fabiantheblind/x-true-da.git
+[submodule "AfterEffects/AESettingsControl"]
+	path = AfterEffects/AESettingsControl
+	url = git://github.com/fabiantheblind/AESettingsControl.git
+[submodule "AfterEffects/after-effects-script-snippets"]
+	path = AfterEffects/after-effects-script-snippets
+	url = git://github.com/fabiantheblind/after-effects-script-snippets.git
+[submodule "Illustrator/AI-connectedNodes"]
+	path = Illustrator/AI-connectedNodes
+	url = git://github.com/fabiantheblind/AI-connectedNodes.git
+[submodule "InDesign/auto-typo-adbe-id"]
+	path = InDesign/auto-typo-adbe-id
+	url = git://github.com/fabiantheblind/auto-typo-adbe-id.git
+[submodule "AfterEffects/debugging-ae-scripts"]
+	path = AfterEffects/debugging-ae-scripts
+	url = git://github.com/fabiantheblind/debugging-ae-scripts.git
+[submodule "AfterEffects/Execute-Menu-Command-by-ID"]
+	path = AfterEffects/Execute-Menu-Command-by-ID
+	url = git://github.com/fabiantheblind/Execute-Menu-Command-by-ID.git
+[submodule "Illustrator/Illustrator-Javascript-Voronoi"]
+	path = Illustrator/Illustrator-Javascript-Voronoi
+	url = git://github.com/fabiantheblind/Illustrator-Javascript-Voronoi.git

@@ -1,0 +1,1 @@
+﻿// make solo pages// written by fabiantheblindvar doc = app.activeDocument;doc.documentPreferences.facingPages = false;

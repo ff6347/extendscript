@@ -21,24 +21,24 @@ To get all the contents and submodules you can clone with git by running:
 
 The you should have these folders (state: 2014 03 13)  
 
-├── AfterEffects
-│   ├── AESettingsControl
-│   ├── Execute-Menu-Command-by-ID
-│   ├── after-effects-script-snippets
-│   ├── debugging-ae-scripts
-│   ├── open-close-mask
-│   ├── wihihihiggle
-│   └── x-true-da
-├── Illustrator
-│   ├── AI-connectedNodes
-│   ├── Illustrator-Javascript-Voronoi
-│   └── obj-from-ai
-├── InDesign
-│   ├── Graphics
-│   ├── IDJSMap
-│   └── IDSnippets
-├── ScriptUI
-└── extendscript-console
+    ├── AfterEffects
+    │   ├── AESettingsControl
+    │   ├── Execute-Menu-Command-by-ID
+    │   ├── after-effects-script-snippets
+    │   ├── debugging-ae-scripts
+    │   ├── open-close-mask
+    │   ├── wihihihiggle
+    │   └── x-true-da
+    ├── Illustrator
+    │   ├── AI-connectedNodes
+    │   ├── Illustrator-Javascript-Voronoi
+    │   └── obj-from-ai
+    ├── InDesign
+    │   ├── Graphics
+    │   ├── IDJSMap
+    │   └── IDSnippets
+    ├── ScriptUI
+    └── extendscript-console
 
 
 To Clone the wiki run:  

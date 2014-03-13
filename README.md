@@ -2,8 +2,10 @@ extendscript
 ============
 
 This repo will be the home for my research and documentation on Adobe Extendscript.  
-#[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
 For more script snippets look at my [after-effects-script-snippets](https://github.com/fabiantheblind/after-effects-script-snippets) or my [IDSnippets](https://github.com/fabiantheblind/IDSnippets) repositories.
+
+###Wiki
+[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
 
 ##Usage:  
 
@@ -14,6 +16,8 @@ To get all the contents and submodules you can clone with git by running:
     # Now init the submodules
     git submodule init 
     git submodule update  
+
+
 
 The you should have these folders (state: 2014 03 13)  
 
@@ -36,57 +40,22 @@ The you should have these folders (state: 2014 03 13)
 ├── ScriptUI
 └── extendscript-console
 
-In some time I will add more code examples in here.  
 
-##TOC  
-
-###InDesign/Graphics/:  
-- copy-graphic-from-rect-to-tect.jsx  
-Copy image from one rectangle to another
-
-###InDesign/MasterSpreads/:
-
-- master-spreads-set-properties.jsx
-setting some masterspread properties  
-
-###InDesign/Pages/:  
-
-- array-to-charts.jsx  
-create pages from an array of strings. Sets some basic paragraph styles
-
-- facingPages.jsx
-Set facing pages to false
-
-###InDesign/Properties/:  
-
-- set-properties-with-loop.jsx
-sets properties without using properties. The good thing about it? You can use JSON and he still processes only properties the ID DOM Object has.
-
-###InDesign/TextPaths and Transformation/:  
-
-- circles.jsx
-- circles_rotate_01.jsx
-- circles_rotate_02.jsx
-Soem fun with textpaths and transformation matricies
+To Clone the wiki run:  
 
 
-###InDesign/book/:  
+    git clone git@github.com:fabiantheblind/extendscript.wiki.git  
+    cd extendscript.wiki/
 
-- buildBookWithDocs.jsx  
-Build a book and create some files. Add these files to the book
+To build on it locally install [gollum](https://github.com/gollum/gollum)  
 
-- docsOfBook_ToIDML.jsx
-Transform all docs of a book into .idml files
-
-###InDesign/export/:  
-
-- docToIDML.jsx  
--Export a .indd to .idml  
-
-###ScriptUI/:  
-
-- ProgressAndDelay.jsx
-Shows the usage of progress bars and delays  
+    # Mac OSX with homebrew installed
+    brew install icu4c
+    # then install gollum  
+    [sudo] gem install gollum
+    [sudo] gem install github-markdown
+    [sudo] gem install redcarpet
+    gollum
 
 
 ##License  

@@ -64,3 +64,6 @@
 [submodule "AfterEffects/ae-scripting-scripting-snippets"]
 	path = AfterEffects/ae-scripting-scripting-snippets
 	url = git@github.com:ae-scripting/scripting-snippets.git
+[submodule "Sublime-ExtendScript"]
+	path = Sublime-ExtendScript
+	url = https://github.com/fabiantheblind/Sublime-ExtendScript

@@ -2,60 +2,60 @@ extendscript
 ============
 
 This repo will be the home for my research and documentation on Adobe Extendscript.  
-#[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
 For more script snippets look at my [after-effects-script-snippets](https://github.com/fabiantheblind/after-effects-script-snippets) or my [IDSnippets](https://github.com/fabiantheblind/IDSnippets) repositories.
 
-In some time I will add more code examples in here.  
+###Wiki
+[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
 
-##TOC  
+##Usage:  
 
-###InDesign/Graphics/:  
-- copy-graphic-from-rect-to-tect.jsx  
-Copy image from one rectangle to another
+To get all the contents and submodules you can clone with git by running:  
 
-###InDesign/MasterSpreads/:
-
-- master-spreads-set-properties.jsx
-setting some masterspread properties  
-
-###InDesign/Pages/:  
-
-- array-to-charts.jsx  
-create pages from an array of strings. Sets some basic paragraph styles
-
-- facingPages.jsx
-Set facing pages to false
-
-###InDesign/Properties/:  
-
-- set-properties-with-loop.jsx
-sets properties without using properties. The good thing about it? You can use JSON and he still processes only properties the ID DOM Object has.
-
-###InDesign/TextPaths and Transformation/:  
-
-- circles.jsx
-- circles_rotate_01.jsx
-- circles_rotate_02.jsx
-Soem fun with textpaths and transformation matricies
+     git clone git@github.com:fabiantheblind/extendscript.git  
+     cd extendscript/
+    # Now init the submodules
+    git submodule init 
+    git submodule update  
 
 
-###InDesign/book/:  
 
-- buildBookWithDocs.jsx  
-Build a book and create some files. Add these files to the book
+The you should have these folders (state: 2014 03 13)  
 
-- docsOfBook_ToIDML.jsx
-Transform all docs of a book into .idml files
+    ├── AfterEffects
+    │   ├── AESettingsControl
+    │   ├── Execute-Menu-Command-by-ID
+    │   ├── after-effects-script-snippets
+    │   ├── debugging-ae-scripts
+    │   ├── open-close-mask
+    │   ├── wihihihiggle
+    │   └── x-true-da
+    ├── Illustrator
+    │   ├── AI-connectedNodes
+    │   ├── Illustrator-Javascript-Voronoi
+    │   └── obj-from-ai
+    ├── InDesign
+    │   ├── Graphics
+    │   ├── IDJSMap
+    │   └── IDSnippets
+    ├── ScriptUI
+    └── extendscript-console
 
-###InDesign/export/:  
 
-- docToIDML.jsx  
--Export a .indd to .idml  
+To Clone the wiki run:  
 
-###ScriptUI/:  
 
-- ProgressAndDelay.jsx
-Shows the usage of progress bars and delays  
+    git clone git@github.com:fabiantheblind/extendscript.wiki.git  
+    cd extendscript.wiki/
+
+To build on it locally install [gollum](https://github.com/gollum/gollum)  
+
+    # Mac OSX with homebrew installed
+    brew install icu4c
+    # then install gollum  
+    [sudo] gem install gollum
+    [sudo] gem install github-markdown
+    [sudo] gem install redcarpet
+    gollum
 
 
 ##License  

@@ -61,3 +61,6 @@
 [submodule "Illustrator/Illustrator-Javascript-Voronoi"]
 	path = Illustrator/Illustrator-Javascript-Voronoi
 	url = git://github.com/fabiantheblind/Illustrator-Javascript-Voronoi.git
+[submodule "AfterEffects/ae-scripting-scripting-snippets"]
+	path = AfterEffects/ae-scripting-scripting-snippets
+	url = git@github.com:ae-scripting/scripting-snippets.git

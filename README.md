@@ -1,11 +1,12 @@
 extendscript
 ============
 
-This repo will be the home for my research and documentation on Adobe Extendscript.  
+[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
+
+This repo is the home for my research and documentation on Adobe Extendscript.  
 For more script snippets look at my [after-effects-script-snippets](https://github.com/fabiantheblind/after-effects-script-snippets) or my [IDSnippets](https://github.com/fabiantheblind/IDSnippets) repositories.
 
-###Wiki
-[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
+
 
 ##Usage:  
 

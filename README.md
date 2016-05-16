@@ -1,11 +1,25 @@
 extendscript
 ============
 
-This repo will be the home for my research and documentation on Adobe Extendscript.  
-For more script snippets look at my [after-effects-script-snippets](https://github.com/fabiantheblind/after-effects-script-snippets) or my [IDSnippets](https://github.com/fabiantheblind/IDSnippets) repositories.
+This repo is the home for my research and documentation on Adobe ExtendScript. [Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
 
-###Wiki
-[Have a look at the wiki](https://github.com/fabiantheblind/extendscript/wiki)  
+#### Some other ExtendScript repositories and experiments of mine:  
+
+- [After Effects Script Snippets](https://github.com/fabiantheblind/after-effects-script-snippets)  
+- [ID Snippets](https://github.com/fabiantheblind/IDSnippets) repositories  
+- ["Gestalten in Code" collection](https://github.com/fabiantheblind/gestalten-in-code) (not exclusive ExtendScript)  
+- [ExtendScript TileMill experiment](https://github.com/fabiantheblind/extendscript.tilemill)  
+- [IDMap](https://github.com/fabiantheblind/IDMap)  
+- [extendscript bundlr](https://github.com/fabiantheblind/extendscript-bundlr)  
+
+#### And awesome stuff of others:  
+
+- [Basil.js](http://basiljs.ch/) by  Ted Davis, Benedikt Groß, Ludwig Zeller et. al.   
+- [extendscriptr](https://github.com/vogelino/extendscriptr) by @vogelino  
+
+
+------
+
 
 ##Usage:  
 

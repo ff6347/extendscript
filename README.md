@@ -1,7 +1,7 @@
 extendscript
 ============
 
-This repo was the home for my research and documentation on Adobe ExtendScript. We moved on to a GitHub organisation for combined super aweseomness power [Have a look at the wiki over there.](https://github.com/ExtendScript/wiki/wiki)  
+This repo was the home for my research and documentation on Adobe ExtendScript. We moved on to a GitHub organisation for combined super awesomeness power [Have a look at the wiki over there.](https://github.com/ExtendScript/wiki/wiki)  
 
 -------
 

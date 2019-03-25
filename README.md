@@ -19,7 +19,7 @@ This repo was the home for my research and documentation on Adobe ExtendScript. 
 - [Basil.js](http://basiljs.ch/) by  Ted Davis, Benedikt Groß, Ludwig Zeller et. al.   
 - [extendscriptr](https://github.com/vogelino/extendscriptr) by @vogelino  
 
-##Usage:  
+## Usage:  
 
 To get all the contents and submodules you can clone with git by running:  
 
@@ -70,7 +70,7 @@ To build on it locally install [gollum](https://github.com/gollum/gollum)
     gollum
 
 
-##License  
+## License  
 if not further noticed  
 Copyright (c)  2013 - 2016 Fabian "fabiantheblind" Morón Zirfas  
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software  without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to  permit persons to whom the Software is furnished to do so, subject to the following conditions:  
